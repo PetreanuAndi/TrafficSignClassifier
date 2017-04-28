@@ -16,7 +16,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ../distributionOfTrain.png "Distribution Of Training Set"
+[image1]: ./distributionOfTrain.png "Distribution Of Training Set"
 [image2]: ./distributionAfterAugmentation.png "Distribution of training Set after augmentation" 
 
 ---
