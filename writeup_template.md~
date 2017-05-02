@@ -97,9 +97,5 @@ Some of these bad results can be found in the "testImages" folder.
 I resized the images with cv2 default resize method, without specifing any custom options (this might also be an error-source)
 Most photos were not centered and the projection was not dead straight => other error sources.
 
-I have printed the softmax probabilities and it seems to be very cartain about it-s top1 guess, with a difference of at least 10e-1 between top1 and top2.
-I find this to be an interpretation-mistake, as top1 is never correct, but within top5 it gets close to the answer.
-
-
 
 
